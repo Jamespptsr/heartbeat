@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-15T00:51:44Z
 progress: 0%
 prd: .claude/prds/mouse-heart-effect.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/Jamespptsr/heartbeat/issues/1
 ---
 
 # Epic: Mouse Heart Effect Tool
@@ -155,14 +155,14 @@ High-level task categories that will be created:
 The implementation focuses on simplicity and performance, leveraging native platform capabilities to create a delightful user experience with minimal system overhead.
 
 ## Tasks Created
-- [ ] 001.md - Platform Foundation - macOS Development Setup (parallel: true)
-- [ ] 002.md - Platform Foundation - Windows Development Setup (parallel: true)
-- [ ] 003.md - Core Application Structure (parallel: false)
-- [ ] 004.md - Mouse Event System - Context-Aware Click Detection (parallel: false)
-- [ ] 005.md - Animation Engine - Heart Animation Implementation (parallel: false)
-- [ ] 006.md - System Integration - System Tray and Settings (parallel: true)
-- [ ] 007.md - Performance Optimization and Testing (parallel: false)
-- [ ] 008.md - Distribution and Code Signing (parallel: false)
+- [ ] #2 - Platform Foundation - macOS Development Setup (parallel: true)
+- [ ] #3 - Platform Foundation - Windows Development Setup (parallel: true)
+- [ ] #4 - Core Application Structure (parallel: false)
+- [ ] #5 - Mouse Event System - Context-Aware Click Detection (parallel: false)
+- [ ] #6 - Animation Engine - Heart Animation Implementation (parallel: false)
+- [ ] #7 - System Integration - System Tray and Settings (parallel: true)
+- [ ] #8 - Performance Optimization and Testing (parallel: false)
+- [ ] #9 - Distribution and Code Signing (parallel: false)
 
 Total tasks: 8
 Parallel tasks: 3
